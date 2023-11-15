@@ -2,12 +2,12 @@
 
 [//]: # (<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VeroniqueDM&theme=transparent&background=000000" alt="Stats" />)
 
-<img  align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VeroniqueDM&theme=dark&background=000000&rank_icon=github">
+<a> <img  align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VeroniqueDM&theme=transparent&background=000000&rank_icon=github"></a> 
 
-<img  align="center" src="https://github-readme-stats.vercel.app/api?username=VeroniqueDM&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent">
+<a><img  align="center" src="https://github-readme-stats.vercel.app/api?username=VeroniqueDM&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent"></a> 
 
-<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroniqueDM&show_icons=true&layout=compact&hide_border=true&exclude_repo=Python-SoftUni&theme=transparent">
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroniqueDM&layout=compact&hide_border=true">
+<a><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroniqueDM&show_icons=true&layout=compact&hide_border=true&exclude_repo=Python-SoftUni&theme=transparent"></a> 
+<a><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroniqueDM&layout=compact&hide_border=true"></a> 
 
 ### My Tech Toolbox 🧰
 
