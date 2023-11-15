@@ -6,7 +6,7 @@
 <a> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VeroniqueDM&theme=transparent&rank_icon=github&layout=compact"></a> 
 
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroniqueDM&show_icons=true&layout=compact&hide_border=true&exclude_repo=Python-SoftUni&theme=transparent"></a> 
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroniqueDM&show_icons=true&layout=compact&exclude_repo=Python-SoftUni&theme=transparent"></a> 
 <a><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroniqueDM&layout=compact&hide_border=true&theme=transparent"></a> 
 
 ### My Tech Toolbox 🧰
