@@ -25,5 +25,5 @@
 
 **GitHub Trophies**
 
-<a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=VeroniqueDM&column=7" alt="GitHub Trophies" /></a>
+<a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=VeroniqueDM&column=8" alt="GitHub Trophies" /></a>
  </div>
