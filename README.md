@@ -1,14 +1,19 @@
 ### GitHub Stats
 
+| <a  href=#> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VeroniqueDM&theme=transparent&layout=compact"></a>  | <a href=#><img align="center" src="https://github-readme-stats.vercel.app/api?username=VeroniqueDM&show_icons=true&include_all_commits=true&theme=transparent&layout=compact&rank_icon=github"></a>  | <a href=#><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroniqueDM&show_icons=true&layout=donut&theme=transparent"></a>  |
+|-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
 <a  href=#> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VeroniqueDM&theme=transparent&layout=compact"></a> 
 
 <a href=#><img align="center" src="https://github-readme-stats.vercel.app/api?username=VeroniqueDM&show_icons=true&include_all_commits=true&theme=transparent&layout=compact&rank_icon=github"></a> 
 
 
 
-<a href=#><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroniqueDM&show_icons=true&layout=donut&exclude_repo=Python-SoftUni&theme=transparent"></a> 
+<a href=#><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroniqueDM&show_icons=true&layout=donut&theme=transparent"></a> 
 
-<a href=#><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroniqueDM&layout=compact&hide_border=true&theme=transparent"></a> 
+<!-- <a href=#><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroniqueDM&layout=compact&hide_border=true&theme=transparent&exclude_repo=Python-SoftUni"></a>  -->
 
 ### My Tech Toolbox 🧰
 
