@@ -1,6 +1,6 @@
 **GitHub Stats**
 
-[//]: # (<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VeroniqueDM&theme=dark&background=000000" alt="Stats" />)
+[//]: # (<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VeroniqueDM&theme=transparent&background=000000" alt="Stats" />)
 
 [<img  align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VeroniqueDM&theme=dark&background=000000&rank_icon=github">]
 
