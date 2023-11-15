@@ -6,6 +6,7 @@
 
 [<img src="https://github-readme-stats.vercel.app/api?username=VeroniqueDM&show_icons=true&include_all_commits=true&hide_border=true">]
 
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroniqueDM&layout=compact&hide_border=true&exclude_repo=Python-SoftUni">]
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroniqueDM&layout=compact&hide_border=true">]
 
 ### My Tech Toolbox 🧰
