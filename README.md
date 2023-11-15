@@ -8,16 +8,6 @@
 | <a href=#><img align="center" src="https://github-readme-stats.vercel.app/api?username=VeroniqueDM&show_icons=true&include_all_commits=true&theme=transparent&layout=compact&rank_icon=github"></a>  | <a href=#><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroniqueDM&show_icons=true&layout=donut&theme=transparent"></a>  |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
- </div>
-
-
-<a href=#><img align="center" src="https://github-readme-stats.vercel.app/api?username=VeroniqueDM&show_icons=true&include_all_commits=true&theme=transparent&layout=compact&rank_icon=github"></a> 
-
-
-
-<a href=#><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroniqueDM&show_icons=true&layout=donut&theme=transparent"></a> 
-
-<!-- <a href=#><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroniqueDM&layout=compact&hide_border=true&theme=transparent&exclude_repo=Python-SoftUni"></a>  -->
 
 ### My Tech Toolbox 🧰
 
@@ -31,6 +21,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
-</p
+</p>
 
-[//]: # ([![VeroniqueDM's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=VeroniqueDM&#41;]&#40;https://github.com/VeroniqueDM/github-readme-stats&#41;)
+ </div>
