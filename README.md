@@ -2,12 +2,12 @@
 
 [//]: # (<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VeroniqueDM&theme=dark&background=000000" alt="Stats" />)
 
-[<img src="http://github-readme-streak-stats.herokuapp.com?user=VeroniqueDM&theme=dark&background=000000">]
+[<img  align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VeroniqueDM&theme=dark&background=000000&rank_icon=github">]
 
-[<img src="https://github-readme-stats.vercel.app/api?username=VeroniqueDM&show_icons=true&include_all_commits=true&hide_border=true">]
+[<img  align="center" src="https://github-readme-stats.vercel.app/api?username=VeroniqueDM&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent">]
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroniqueDM&layout=compact&hide_border=true&exclude_repo=Python-SoftUni">]
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroniqueDM&layout=compact&hide_border=true">]
+[<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroniqueDM&show_icons=true&layout=compact&hide_border=true&exclude_repo=Python-SoftUni&theme=transparent">]
+[<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroniqueDM&layout=compact&hide_border=true">]
 
 ### My Tech Toolbox 🧰
 
