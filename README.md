@@ -8,17 +8,14 @@
 
 <h2>
  Check out my <a href="https://veroniquedm.github.io/portfolio/">Portfolio </a>
-<br>
-<br>
 
   You can find me on [![Linkedin Badge](https://img.shields.io/badge/-Veronika-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/veronika-d-miteva)
 
-
  </h2>
-<br>
-<br>
+ 
+***
 
-<h2> My Tech Toolbox 🧰 </h2>
+### My Tech Toolbox 🧰
 
 <p align="center">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
@@ -31,11 +28,8 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
 </p>
-<br>
-<br>
 
-<h2> GitHub Stats </h2>
-
+### GitHub Stats
 
 | <a  href=#> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VeroniqueDM&theme=transparent&layout=compact"></a>  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -44,7 +38,7 @@
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
-<h2> GitHub Trophies </h2>
+**GitHub Trophies**
 
 <a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=VeroniqueDM&column=8" alt="GitHub Trophies" /></a>
  </div>
