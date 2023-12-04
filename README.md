@@ -1,13 +1,17 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Greetings+%F0%9F%91%8B+I'm+Veronika+Miteva;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Greetings+%F0%9F%91%8B+I'm+Veronika+Miteva!;)](https://git.io/typing-svg)
 </div>
 
 <div align='center'>
 
 
 <h2>
- Check out my <a href="https://veroniquedm.github.io/portfolio/">Portfolio </a></h2>
+ Check out my <a href="https://veroniquedm.github.io/portfolio/">Portfolio </a>
+
+  You can find me on [![Linkedin Badge](https://img.shields.io/badge/-Veronika-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/veronika-d-miteva)
+
+ </h2>
 
 ### My Tech Toolbox 🧰
 
@@ -36,3 +40,4 @@
 
 <a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=VeroniqueDM&column=8" alt="GitHub Trophies" /></a>
  </div>
+ 
