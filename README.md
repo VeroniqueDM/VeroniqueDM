@@ -9,8 +9,6 @@
 <h2>
  Check out my <a href="https://veroniquedm.github.io/portfolio/">Portfolio </a>
 
-  You can find me on [![Linkedin Badge](https://img.shields.io/badge/-Veronika-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/veronika-d-miteva)
-
  </h2>
 
 
